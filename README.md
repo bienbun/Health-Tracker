@@ -44,28 +44,28 @@ npm install -g pnpm
 
 Install the repo
 ```bash
-   git clone https://github.com/bienbun/Health-Tracker.git
-   cd Health-Tracker
+git clone https://github.com/bienbun/Health-Tracker.git
+cd Health-Tracker
 ```
 
 Install dependencies
 ```bash
-   pnpm install
+pnpm install
 ```
 
 Set up environment variables
 ```bash
-   cp .env.example .env
+cp .env.example .env
 ```
 
 Set up the database
 ```bash
-   pnpm prisma migrate dev
+pnpm prisma migrate dev
 ```
 
 Run the app
 ```bash
-   pnpm run dev
+pnpm run dev
 ```
 
 ## Environment Variables
