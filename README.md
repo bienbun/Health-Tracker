@@ -79,3 +79,5 @@ CLERK_SECRET_KEY=your_clerk_secret_key
 CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key
 NUXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key
 ```
+
+Hope you enjoy the webapp :D
