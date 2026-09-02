@@ -20,7 +20,7 @@ Purpose of this Health-Tracker is to
 - Health Profile — store medical history, family conditions, and blood test results
 
 ## Tech Stack
-- Frontend/Backend — Nuxt 3, Vue, TypeScript
+- Frontend/Backend — Nuxt 4, Vue, TypeScript
 - Database — PostgreSQL (Supabase)
 - ORM — Prisma
 - AI — Google Gemini API
